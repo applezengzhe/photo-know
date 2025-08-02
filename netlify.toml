@@ -1,5 +1,5 @@
 [[redirects]]
   from = "/*"
-  to = "https://photobed.applezengzhe.workers.dev/:splat"
+  to = "https://tc-api.applezengzhe.workers.dev/:splat"
   status = 200
   force = true
